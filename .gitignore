@@ -13,4 +13,5 @@ __pycache__
 .cache
 .local
 venv*/
-/src/exceptiongroup/_version.py
+
+.pybuild/
