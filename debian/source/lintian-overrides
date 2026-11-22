@@ -1,0 +1,5 @@
+python-exceptiongroup source: file-without-copyright-information
+python-exceptiongroup source: no-debian-changes
+python-exceptiongroup source: source-contains-prebuilt-windows-binary
+python-exceptiongroup source: source-is-missing
+python-exceptiongroup source: source-package-encodes-python-version
